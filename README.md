@@ -2,51 +2,59 @@
 
 <p align="center">
   <em>
-    Hello, I am Diego Galindo a <b>final year</b> undergraduate Telecommunications Systems Engineer from <b>University Of Malaga</b>, Spain</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif]" width="36px">&nbsp,<br>
+    Hello, I am Diego, a <b>final year</b> undergraduate Telecommunications Systems Engineer from the <b>University Of Malaga</b>, Spain. <br>
+    <b>A passionate self-learner</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="30px"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="36px"><br>
   </em> 
-  <br>
 </p>
-<br><br>
 
+<p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-galindo-rull)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digalrul.dev@gmail.com)
+
 [![GitHub followers](https://img.shields.io/github/followers/diegouma2001?style=social&label=Follow)](https://github.com/digalrul01)
+</p>
 
+---
 
-* 🔭 I am a Telecommunication Systems Engineer student from Almería, Spain 🇪🇸.
-* 🚀 Founder of Batalla Espacial app.
-* 📫 How to reach me: **...**
+### 🔭 Quick Overview
 
-### 🛠️ Tech Stack
-![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge&logoColor=white)
+* 🎓 **Telecommunication Systems Engineer** student from Almería, Spain 🇪🇸.
+* 🚀 **Founder** of *Batalla Espacial* app.
+* 💻 Currently developing mobile apps with **Flutter** & **Dart**.
+* 🧠 Exploring the world of **AI** and its applications.
+* 📫 How to reach me: **digalrul.dev@gmail.com**
 
+---
 
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My working tools...
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegouma2001&theme=blue-green)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=digalrul01&theme=radical" alt="GitHub Streak">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegouma2001&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=digalrul01&show_icons=true&theme=radical" alt="Diego's GitHub stats">
+</p>
 
+---
 
+### 😊 About me...
 
+* 🗣️ **Pronouns:** He / Him
+* 🤝 **Mindset:** Team Worker & Problem Solver
+* ⚡ **Fun Fact:** I love learning new tech stacks while sipping a good coffee.
 
-
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing some apps<br>
-✔ I’m currently learning about **flutter**🥰<br>
-✔ I’m currently learning about **AI**😎<br>
- 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
+---
