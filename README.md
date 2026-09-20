@@ -81,7 +81,6 @@
 
 ### 😊 About me...
 
-* 🗣️ **Pronouns:** He / Him
 * 🤝 **Mindset:** Team Worker & Problem Solver
 * ⚡ **Fun Fact:** I love learning new tech stacks while sipping a good coffee.
 
